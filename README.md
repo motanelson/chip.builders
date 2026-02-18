@@ -1,2 +1,1 @@
-# pack.source
-source code of struck.pack 
+get xy from bitmap using pbrush.exe
